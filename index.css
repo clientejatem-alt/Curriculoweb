@@ -1,0 +1,20 @@
+::-webkit-validation-bubble-arrow-clipper {
+    border: none !important;
+}   
+::-webkit-validation-bubble-arrow {
+    border: none !important;
+}   
+::-webkit-validation-bubble {
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+}   
+::-webkit-validation-bubble-message {
+    border: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    color: transparent !important;
+}   
+input:invalid {
+    box-shadow: none !important;
+}
